@@ -1,0 +1,4 @@
+To run this project, use a local application server. 
+Because the system has routing, and this does not work by 
+accessing the file directly through windows explorer (web standard).
+We suggest using the npm http-server package for quick project execution.
